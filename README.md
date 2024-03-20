@@ -2,10 +2,10 @@
 This repository contains a comprehensive analysis of Adidas's sales data in the United States. Our goal is to uncover insights that can drive strategic business decisions, optimize product portfolios, and identify market expansion opportunities.<br>
 
 ### Repository Contents <br>
-*Adidas Dashboard.pbix:* An interactive dashboard built with Power BI, offering a visual representation of sales data and trends.<br>
-*Adidas Sales Analysis File.html:* A detailed report outlining the findings from the sales analysis, formatted for easy web viewing.<br>
-*Adidas Sales Analysis File.ipynb:* A Jupyter notebook containing the Python code used for the data analysis, including data cleaning, manipulation, and visualization.<br>
-*Adidas US Sales Datasets.xlsx:* The raw dataset used for analysis, comprising sales figures across various product lines and regions.<br>
+**Adidas Dashboard.pbix:** An interactive dashboard built with Power BI, offering a visual representation of sales data and trends.<br>
+**Adidas Sales Analysis File.html:** A detailed report outlining the findings from the sales analysis, formatted for easy web viewing.<br>
+**Adidas Sales Analysis File.ipynb:** A Jupyter notebook containing the Python code used for the data analysis, including data cleaning, manipulation, and visualization.<br>
+**Adidas US Sales Datasets.xlsx:** The raw dataset used for analysis, comprising sales figures across various product lines and regions.<br>
 
 ### Tools and Technologies <br>
 Power BI: Used for creating interactive dashboards to visualize sales trends and key performance indicators.<br>
