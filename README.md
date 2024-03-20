@@ -12,9 +12,9 @@ Power BI: Used for creating interactive dashboards to visualize sales trends and
 Python: Utilized for data cleaning, analysis, and visualization. Libraries used include pandas, numpy, matplotlib, and seaborn.<br>
 Jupyter Notebook: Served as the development environment for Python scripts.<br>
 
-###Project Overview<br>
+## Project Overview<br>
 
-#### The analysis includes: <br>
+### The analysis includes: <br>
 Sales performance by product and region <br>
 Profitability analysis<br>
 Sales channel efficiency<br>
